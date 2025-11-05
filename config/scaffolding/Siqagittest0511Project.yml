@@ -8,7 +8,13 @@ packages:
   gitUsername: Rajni25Aug
   gitBranch: main
 - name: TPP_services_in_FCS
+  version: "1.0"
   gitServerName: kusi
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: Rajni25Aug
   gitBranch: main
+- name: SIQA_OriginTest_OnPremAssets
+  gitServerName: kusi
+  gitUrl: https://github.com/vijetadixit
+  gitUsername: Rajni25Aug
+  gitBranch: Test2
