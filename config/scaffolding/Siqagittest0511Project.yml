@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/Rajni25Aug
   gitUsername: Rajni25Aug
   gitBranch: main
+- name: TPP_services_in_FCS
+  gitServerName: kusi
+  gitUrl: https://github.com/Karthik-V-IBM-10
+  gitUsername: Rajni25Aug
+  gitBranch: main
